@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "591594756603",
+    "project_id": "my-watch-list-9b74a",
+    "storage_bucket": "my-watch-list-9b74a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591594756603:android:6164c0b5246cb00e43535e",
+        "android_client_info": {
+          "package_name": "com.example.my_watch_list"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591594756603-sshcai9vltpq5rm83lreajnpemppe152.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOaL2Yz-gbUrgEApgppHl4JeYdDYx-oLk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591594756603-sshcai9vltpq5rm83lreajnpemppe152.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
